@@ -43,7 +43,7 @@ export default function Home() {
 
       setLoading(true);
 
-      let url = `http://localhost:8000/chat_stream?query=${encodeURIComponent(
+      let url = `https://perplexity-33vr.onrender.com/chat_stream?query=${encodeURIComponent(
         userInput
       )}`;
       if (checkpointId)
