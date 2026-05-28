@@ -10,7 +10,7 @@
 
 ##### 📊 Extras: Syntax highlighting, chart rendering, tables, and more
 
-##### 🌍 Live Demo: https://client-733g.vercel.app/](https://perplexity-clone-98a20dklq-amber-bagchis-projects.vercel.app/
+##### 🌍 Live Demo: https://perplexity-clone-98a20dklq-amber-bagchis-projects.vercel.app/
 
 ## 📌 Features
 
